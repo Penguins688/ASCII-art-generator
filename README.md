@@ -19,3 +19,4 @@ Scale factor in %: <your scale factor here>
 <img src="python image to text/Dwayne-Johnson_credHuyDoan-e1705977711715.webp" alt="Demo" width="290" height="194"><br>
 
 **Text**<br>
+<img src="python image to text/Dwayne-Johnson_credHuyDoan-e1705977711715.webp" alt="Demo" width="290" height="194">
